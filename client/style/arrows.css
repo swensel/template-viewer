@@ -1,0 +1,27 @@
+.arrows a:not(.disabled) {
+	cursor: pointer;
+}
+
+.arrows a.disabled {
+	opacity: .2 !important;
+}
+
+.previous {
+	background: url(../images/previous.png) no-repeat 0 0;
+	left: 10px;
+}
+
+.next {
+	background: url(../images/next.png) no-repeat 0 0;
+	right: 10px;
+}
+
+.previous:hover,
+.next:hover {
+	opacity: .6;
+}
+
+.previous:active,
+.next:active {
+	opacity: 1;
+}

@@ -1,6 +1,6 @@
 # Code Development Test
 
-## Development Steps
+## Info
 
 Created this template viewer as part of a take home interview coding test.
 
